@@ -1,40 +1,116 @@
 <!DOCTYPE html>
-<html lang="es">
+<html lang="en">
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>CALENDARIO DE ADVIENTO</title>
-    <link rel="stylesheet" href="./style.css">
-    <script src="./calendar.js"></script>
+    <title>Equipo Rojo</title>
+    <style>
+        body {
+            font-family: Arial, sans-serif;
+            background-color: #f9f9f9;
+            color: #333;
+            margin: 0;
+            padding: 0;
+            display: flex;
+            flex-direction: column;
+            align-items: center;
+            min-height: 100vh;
+        }
+        header {
+            background-color: #d32f2f;
+            color: white;
+            padding: 20px;
+            width: 100%;
+            text-align: center;
+            box-shadow: 0px 4px 6px rgba(0, 0, 0, 0.1);
+        }
+        header h1 {
+            margin: 0;
+            font-size: 2.5em;
+        }
+        main {
+            width: 80%;
+            max-width: 800px;
+            margin-top: 20px;
+            flex-grow: 1;
+        }
+        section.response {
+            margin: 20px auto;
+            padding: 20px;
+            background-color: #fff;
+            border: 1px solid #ddd;
+            border-radius: 10px;
+            box-shadow: 0px 4px 8px rgba(0, 0, 0, 0.2);
+            text-align: center;
+        }
+        section.team {
+            margin: 20px auto;
+            text-align: center;
+        }
+        section.team p {
+            font-size: 1.5em;
+            margin-bottom: 20px;
+            font-weight: bold;
+        }
+        section.team .members {
+            display: flex;
+            justify-content: center;
+            flex-wrap: wrap;
+            gap: 15px;
+        }
+        article.member {
+            background-color: #d32f2f;
+            color: white;
+            padding: 10px 20px;
+            min-width: 60px;
+            height: auto;
+            display: flex;
+            justify-content: center;
+            align-items: center;
+            border-radius: 50%;
+            font-size: 1.2em;
+            box-shadow: 0px 4px 8px rgba(0, 0, 0, 0.2);
+            text-align: center;
+        }
+        footer {
+            background-color: #d32f2f;
+            color: white;
+            width: 100%;
+            text-align: center;
+            padding: 10px 0;
+            box-shadow: 0px -4px 6px rgba(0, 0, 0, 0.1);
+        }
+        footer p {
+            margin: 0;
+            font-size: 1em;
+        }
+    </style>
 </head>
 <body>
     <header>
-        <h1>¡¡CALENDARIO DE ADVIENTO!!</h1>
-        <h3>Descubre cada día una frase motivadora</h3>
-        <img class="ornament" src="./imagen/ornamentxtmas.jpeg" alt="bola de Navidad"/>
+        <h1>Bienvenidos a la Web del Equipo Rojo</h1>
     </header>
-
-    <!-- EC2 Response -->
-    <div>EC2 response: $(hostname -f)</div>
-
-    <div class="calendario">
-        <div class="dia" onclick="mostrarFrase(1)">Día 19</div>
-        <div class="dia" onclick="mostrarFrase(2)">Día 20</div>
-        <div class="dia" onclick="mostrarFrase(3)">Día 21</div>
-        <div class="dia" onclick="mostrarFrase(4)">Día 22</div>
-        <div class="dia" onclick="mostrarFrase(5)">Día 23</div>
-        <div class="dia" onclick="mostrarFrase(6)">Día 24</div>
-    </div>
-
-    <div id="modal" class="modal" style="display: none;">
-        <div class="modal-content">
-            <span class="close" onclick="ocultarFrase()">&times;</span>
-            <p id="frase-motivadora-modal"></p>
-        </div>
-    </div>
-
+    <main>
+        <!-- Respuesta del EC2 -->
+        <section class="response">
+            <p>EC2 response: $(hostname -f)</p>
+        </section>
+        <!-- Miembros del equipo -->
+        <section class="team">
+            <p>Miembros del equipo</p>
+            <div class="members">
+                <article class="member">Ana</article>
+                <article class="member">Anais</article>
+                <article class="member">Mamen</article>
+                <article class="member">Mar</article>
+                <article class="member">Paula</article>
+                <article class="member">Sherley</article>
+            </div>
+        </section>
+    </main>
     <footer>
-        <p>RED Team AWS </p>Copyright &copy; 2024
+        <p>Equipo Rojo</p>
+        <p>Copyright &copy; 2024</p>
     </footer>
 </body>
 </html>

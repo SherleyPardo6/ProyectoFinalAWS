@@ -5,7 +5,7 @@
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>CALENDARIO DE ADVIENTO</title>
     <link rel="stylesheet" href="./style.css">
-    <script  src="./calendar.js"></script>
+    <script src="./calendar.js"></script>
 </head>
 <body>
     <header>
@@ -14,30 +14,27 @@
         <img class="ornament" src="./imagen/ornamentxtmas.jpeg" alt="bola de Navidad"/>
     </header>
 
-        <div class="calendario">
-            <div class="dia" onclick="mostrarFrase(1)">Día 19</div>
-            <div class="dia" onclick="mostrarFrase(2)">Día 20</div>
-            <div class="dia" onclick="mostrarFrase(3)">Día 21</div>
-            <div class="dia" onclick="mostrarFrase(4)">Día 22</div>
-            <div class="dia" onclick="mostrarFrase(5)">Día 23</div>
-            <div class="dia" onclick="mostrarFrase(6)">Día 24</div>
-            <!-- Repite estos divs para cada día en el calendario -->
-            <!-- ... -->
-        </div>
-    
-        <!-- Modal para mostrar la frase -->
-        <div id="modal" class="modal" style="display: none;">
-            <div class="modal-content">
-                <span class="close" onclick="ocultarFrase()">&times;</span>
-                <p id="frase-motivadora-modal"></p>
-            </div>
+    <!-- EC2 Response -->
+    <div>EC2 response: $(hostname -f)</div>
+
+    <div class="calendario">
+        <div class="dia" onclick="mostrarFrase(1)">Día 19</div>
+        <div class="dia" onclick="mostrarFrase(2)">Día 20</div>
+        <div class="dia" onclick="mostrarFrase(3)">Día 21</div>
+        <div class="dia" onclick="mostrarFrase(4)">Día 22</div>
+        <div class="dia" onclick="mostrarFrase(5)">Día 23</div>
+        <div class="dia" onclick="mostrarFrase(6)">Día 24</div>
+    </div>
+
+    <div id="modal" class="modal" style="display: none;">
+        <div class="modal-content">
+            <span class="close" onclick="ocultarFrase()">&times;</span>
+            <p id="frase-motivadora-modal"></p>
         </div>
     </div>
 
     <footer>
-        <p>Tu Amigo Invisible 🤫 😅 </p>Copyright &copy; 2023
+        <p>RED Team AWS </p>Copyright &copy; 2024
     </footer>
-
 </body>
-
 </html>

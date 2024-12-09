@@ -1,0 +1,43 @@
+<!DOCTYPE html>
+<html lang="es">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>CALENDARIO DE ADVIENTO</title>
+    <link rel="stylesheet" href="./style.css">
+    <script  src="./calendar.js"></script>
+</head>
+<body>
+    <header>
+        <h1>¡¡CALENDARIO DE ADVIENTO!!</h1>
+        <h3>Descubre cada día una frase motivadora</h3>
+        <img class="ornament" src="./imagen/ornamentxtmas.jpeg" alt="bola de Navidad"/>
+    </header>
+
+        <div class="calendario">
+            <div class="dia" onclick="mostrarFrase(1)">Día 19</div>
+            <div class="dia" onclick="mostrarFrase(2)">Día 20</div>
+            <div class="dia" onclick="mostrarFrase(3)">Día 21</div>
+            <div class="dia" onclick="mostrarFrase(4)">Día 22</div>
+            <div class="dia" onclick="mostrarFrase(5)">Día 23</div>
+            <div class="dia" onclick="mostrarFrase(6)">Día 24</div>
+            <!-- Repite estos divs para cada día en el calendario -->
+            <!-- ... -->
+        </div>
+    
+        <!-- Modal para mostrar la frase -->
+        <div id="modal" class="modal" style="display: none;">
+            <div class="modal-content">
+                <span class="close" onclick="ocultarFrase()">&times;</span>
+                <p id="frase-motivadora-modal"></p>
+            </div>
+        </div>
+    </div>
+
+    <footer>
+        <p>Tu Amigo Invisible 🤫 😅 </p>Copyright &copy; 2023
+    </footer>
+
+</body>
+
+</html>

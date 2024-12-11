@@ -23,7 +23,7 @@ El proyecto se llevó a cabo siguiendo los pasos:
 5. **Configuración de grupos de seguridad**: Políticas de acceso para EC2 y ELB.
 
 ## Diagrama de Arquitectura
-![Diagrama de Arquitectura](path/to/architecture-diagram.png)
+![Diagrama de Arquitectura](architecture-diagram.png)
 
 ## Mejoras Propuestas para el Cliente
 Se identificaron herramientas adicionales para optimizar la solución:
@@ -38,6 +38,8 @@ Se identificaron herramientas adicionales para optimizar la solución:
 Puedes ver una demostración del proyecto en AWS [aquí](https://youtu.be/vYToZIg20BM).
 
 ## Presupuesto
+![Presupuesto Arquitectura](PresupuestoArquitectura.png)
+
 El proyecto fue diseñado para ser rentable, aprovechando los servicios escalables y de pago por uso de AWS.
 
 ## Preguntas

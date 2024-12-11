@@ -6,7 +6,7 @@
 - Mª del Carmen Fernández
 - Mar Prieto
 - Paula Sanz
-- Sherley J. Pardo
+- Sherley Johana Pardo
 
 ## Objetivo del Proyecto
 El cliente desea desplegar una web estática en AWS que cumpla con los siguientes requisitos:
@@ -39,6 +39,7 @@ Puedes ver una demostración del proyecto en AWS [aquí](https://youtu.be/vYToZI
 
 ## Presupuesto
 El proyecto fue diseñado para ser rentable, aprovechando los servicios escalables y de pago por uso de AWS.
+![Presupuesto](PresupuestoAquitectura.png)
 
 ## Preguntas
 Si tienes alguna consulta, no dudes en preguntar. ¡Gracias por tu atención!

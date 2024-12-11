@@ -20,8 +20,6 @@
 ### Sherley Johana Pardo
 ![Sherley Johana Pardo](IntegrantesProyecto/SherleyJohanaPardo.jpg)
 
-*(Nota: Todas las imágenes están redimensionadas para mantener un tamaño uniforme y una presentación profesional.)*
-
 ## Objetivo del Proyecto
 El cliente desea desplegar una web estática en AWS que cumpla con los siguientes requisitos:
 - Alta disponibilidad: Garantizar que la caída de una zona de disponibilidad no afecte el servicio.

@@ -39,6 +39,7 @@ Puedes ver una demostración del proyecto en AWS [aquí](https://youtu.be/vYToZI
 
 ## Presupuesto
 El proyecto fue diseñado para ser rentable, aprovechando los servicios escalables y de pago por uso de AWS.
+![Presupuesto Arquitectura](PresupuestoArquitectura.png)
 
 ## Preguntas
 Si tienes alguna consulta, no dudes en preguntar. ¡Gracias por tu atención!

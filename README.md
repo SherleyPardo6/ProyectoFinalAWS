@@ -2,17 +2,17 @@
 
 ## Miembros del Equipo
 - Ana González
-![Ana Gonzalez](IntegrantesProyecto\AnaGonzalezBueno1.jpg)
+![Ana Gonzalez](IntegrantesProyecto/AnaGonzalezBueno.jpg)
 - Anaís Reyes
 ![Anais Reyes](IntegrantesProyecto\AnaisReyes.jpg)
 - Mª del Carmen Fernández
-![Maria Del Carmen](IntegrantesProyecto\MariaDelCarmenFernadez.jpg)
+![Maria Del Carmen](IntegrantesProyecto/MariaDelCarmenFernadez.jpg)
 - Mar Prieto
-![Mar Prieto](IntegrantesProyecto\MarPrietp.jpg)
+![Mar Prieto](IntegrantesProyecto/MarPrietp.png)
 - Paula Sanz
 ![Paula Sanz](IntegrantesProyecto\PaulaSanz.jpg)
 - Sherley Johana Pardo
-![Sherley Johana Pardo](IntegrantesProyecto\SherleyJohanaPardo.jpg)
+![Sherley Johana Pardo](IntegrantesProyecto/SherleyJohanaPardo.jpg)
 
 ## Objetivo del Proyecto
 El cliente desea desplegar una web estática en AWS que cumpla con los siguientes requisitos:

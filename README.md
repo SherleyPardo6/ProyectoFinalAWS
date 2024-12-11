@@ -2,16 +2,28 @@
 
 ## Miembros del Equipo
 - Ana González
+
+  
 ![Ana Gonzalez](IntegrantesProyecto/AnaGonzalezBueno.jpg)
 - Anaís Reyes
+
+
 ![Anais Reyes](IntegrantesProyecto\AnaisReyes.jpg)
 - Mª del Carmen Fernández
+
+
 ![Maria Del Carmen](IntegrantesProyecto/MariaDelCarmenFernadez.jpg)
 - Mar Prieto
+
+
 ![Mar Prieto](IntegrantesProyecto/MarPrietp.png)
 - Paula Sanz
+
+
 ![Paula Sanz](IntegrantesProyecto\PaulaSanz.jpg)
 - Sherley Johana Pardo
+
+
 ![Sherley Johana Pardo](IntegrantesProyecto/SherleyJohanaPardo.jpg)
 
 ## Objetivo del Proyecto
@@ -45,7 +57,7 @@ Puedes ver una demostración del proyecto en AWS [aquí](https://youtu.be/vYToZI
 
 ## Presupuesto
 El proyecto fue diseñado para ser rentable, aprovechando los servicios escalables y de pago por uso de AWS.
-![Presupuesto Arquitectura](PresupuestoArquitectura.png)
+![Presupuesto Arquitectura](PresupuestoAquitectura.png)
 
 ## Preguntas
 Si tienes alguna consulta, no dudes en preguntar. ¡Gracias por tu atención!

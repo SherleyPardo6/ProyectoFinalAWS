@@ -1,30 +1,26 @@
 # Proyecto Final: AWS - Red Team
 
 ## Miembros del Equipo
-- Ana González
 
-  
+### Ana González
 ![Ana Gonzalez](IntegrantesProyecto/AnaGonzalezBueno.jpg)
-- Anaís Reyes
 
+### Anaís Reyes
+![Anais Reyes](IntegrantesProyecto/AnaisReyes.jpg)
 
-![Anais Reyes](IntegrantesProyecto\AnaisReyes.jpg)
-- Mª del Carmen Fernández
-
-
+### Mª del Carmen Fernández
 ![Maria Del Carmen](IntegrantesProyecto/MariaDelCarmenFernadez.jpg)
-- Mar Prieto
 
-
+### Mar Prieto
 ![Mar Prieto](IntegrantesProyecto/MarPrietp.png)
-- Paula Sanz
 
+### Paula Sanz
+![Paula Sanz](IntegrantesProyecto/PaulaSanz.jpg)
 
-![Paula Sanz](IntegrantesProyecto\PaulaSanz.jpg)
-- Sherley Johana Pardo
-
-
+### Sherley Johana Pardo
 ![Sherley Johana Pardo](IntegrantesProyecto/SherleyJohanaPardo.jpg)
+
+*(Nota: Todas las imágenes están redimensionadas para mantener un tamaño uniforme y una presentación profesional.)*
 
 ## Objetivo del Proyecto
 El cliente desea desplegar una web estática en AWS que cumpla con los siguientes requisitos:
@@ -57,6 +53,7 @@ Puedes ver una demostración del proyecto en AWS [aquí](https://youtu.be/vYToZI
 
 ## Presupuesto
 El proyecto fue diseñado para ser rentable, aprovechando los servicios escalables y de pago por uso de AWS.
+
 ![Presupuesto Arquitectura](PresupuestoAquitectura.png)
 
 ## Preguntas

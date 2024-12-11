@@ -38,7 +38,7 @@ Se identificaron herramientas adicionales para optimizar la solución:
 Puedes ver una demostración del proyecto en AWS [aquí](https://youtu.be/vYToZIg20BM).
 
 ## Presupuesto
-![Presupuesto](PresupuestoAquitectura.png)
+![Presupuesto Arquitectura](PresupuestoArquitectura.png)
 El proyecto fue diseñado para ser rentable, aprovechando los servicios escalables y de pago por uso de AWS.
 
 ## Preguntas

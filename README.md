@@ -23,7 +23,7 @@ El proyecto se llevó a cabo siguiendo los pasos:
 5. **Configuración de grupos de seguridad**: Políticas de acceso para EC2 y ELB.
 
 ## Diagrama de Arquitectura
-![Diagrama de Arquitectura](path/to/architecture-diagram.png)
+![Diagrama de Arquitectura](architecture-diagram.png)
 
 ## Mejoras Propuestas para el Cliente
 Se identificaron herramientas adicionales para optimizar la solución:

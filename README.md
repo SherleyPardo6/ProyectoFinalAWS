@@ -38,8 +38,8 @@ Se identificaron herramientas adicionales para optimizar la solución:
 Puedes ver una demostración del proyecto en AWS [aquí](https://youtu.be/vYToZIg20BM).
 
 ## Presupuesto
-El proyecto fue diseñado para ser rentable, aprovechando los servicios escalables y de pago por uso de AWS.
 ![Presupuesto](PresupuestoAquitectura.png)
+El proyecto fue diseñado para ser rentable, aprovechando los servicios escalables y de pago por uso de AWS.
 
 ## Preguntas
 Si tienes alguna consulta, no dudes en preguntar. ¡Gracias por tu atención!

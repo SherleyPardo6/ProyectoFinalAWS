@@ -49,4 +49,3 @@ El proyecto fue diseñado para ser rentable, aprovechando los servicios escalabl
 
 ## Preguntas
 Si tienes alguna consulta, no dudes en preguntar. ¡Gracias por tu atención!
-

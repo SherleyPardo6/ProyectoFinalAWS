@@ -2,23 +2,32 @@
 
 ## Miembros del Equipo
 
-### Ana González
-<img src="IntegrantesProyecto/AnaGonzalezBueno.jpg" alt="Ana Gonzalez" width="150" height="150">
-
-### Anaís Reyes
-<img src="IntegrantesProyecto/AnaisReyes.jpg" alt="Anais Reyes" width="150" height="150">
-
-### Mª del Carmen Fernández
-<img src="IntegrantesProyecto/MariaDelCarmenFernadez.jpg" alt="Maria Del Carmen" width="150" height="150">
-
-### Mar Prieto
-<img src="IntegrantesProyecto/MarPrietp.png" alt="Mar Prieto" width="150" height="150">
-
-### Paula Sanz
-<img src="IntegrantesProyecto/PaulaSanz.jpg" alt="Paula Sanz" width="150" height="150">
-
-### Sherley Johana Pardo
-<img src="IntegrantesProyecto/SherleyJohanaPardo.jpg" alt="Sherley Johana Pardo" width="150" height="150">
+<div style="display: flex; flex-wrap: wrap; gap: 20px;">
+  <div style="text-align: center;">
+    <img src="IntegrantesProyecto/AnaGonzalezBueno.jpg" alt="Ana Gonzalez" width="150" height="150">
+    <p>Ana González</p>
+  </div>
+  <div style="text-align: center;">
+    <img src="IntegrantesProyecto/AnaisReyes.jpg" alt="Anais Reyes" width="150" height="150">
+    <p>Anaís Reyes</p>
+  </div>
+  <div style="text-align: center;">
+    <img src="IntegrantesProyecto/MariaDelCarmenFernadez.jpg" alt="Maria Del Carmen" width="150" height="150">
+    <p>Mª del Carmen Fernández</p>
+  </div>
+  <div style="text-align: center;">
+    <img src="IntegrantesProyecto/MarPrietp.png" alt="Mar Prieto" width="150" height="150">
+    <p>Mar Prieto</p>
+  </div>
+  <div style="text-align: center;">
+    <img src="IntegrantesProyecto/PaulaSanz.jpg" alt="Paula Sanz" width="150" height="150">
+    <p>Paula Sanz</p>
+  </div>
+  <div style="text-align: center;">
+    <img src="IntegrantesProyecto/SherleyJohanaPardo.jpg" alt="Sherley Johana Pardo" width="150" height="150">
+    <p>Sherley Johana Pardo</p>
+  </div>
+</div>
 
 ## Objetivo del Proyecto
 El cliente desea desplegar una web estática en AWS que cumpla con los siguientes requisitos:

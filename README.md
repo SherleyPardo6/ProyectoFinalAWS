@@ -2,7 +2,6 @@
 
 ## Miembros del Equipo
 
-
 |--------------|-------------|-------------------------|
 | <img src="IntegrantesProyecto/AnaGonzalezBueno.jpg" alt="Ana Gonzalez" width="150" height="150"> | <img src="IntegrantesProyecto/AnaisReyes.jpg" alt="Anais Reyes" width="150" height="150"> | <img src="IntegrantesProyecto/MariaDelCarmenFernadez.jpg" alt="Maria Del Carmen" width="150" height="150"> |
 | **Ana González** | **Anaís Reyes** | **Mª del Carmen Fernández** |

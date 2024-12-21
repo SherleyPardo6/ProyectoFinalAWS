@@ -17,13 +17,13 @@ El proyecto se llevó a cabo siguiendo los pasos:
 4. **Configuración del ELB (Elastic Load Balancer)**: Distribución del tráfico entre las instancias.
 5. **Configuración de grupos de seguridad**: Políticas de acceso para EC2 y ELB.
 
+6. ## Demo
+
+Puedes ver una demostración del proyecto en AWS [aquí](https://youtu.be/vYToZIg20BM).
+
 ## Diagrama de Arquitectura
 
 ![Diagrama de Arquitectura](architecture-diagram.png)
-
-## Demo
-
-Puedes ver una demostración del proyecto en AWS [aquí](https://youtu.be/vYToZIg20BM).
 
 ## Presupuesto
 

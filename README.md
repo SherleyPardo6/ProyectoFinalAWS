@@ -21,6 +21,16 @@ El proyecto se llevó a cabo siguiendo los pasos:
 
 ![Diagrama de Arquitectura](architecture-diagram.png)
 
+## Demo
+
+Puedes ver una demostración del proyecto en AWS [aquí](https://youtu.be/vYToZIg20BM).
+
+## Presupuesto
+
+El proyecto fue diseñado para ser rentable, aprovechando los servicios escalables y de pago por uso de AWS.
+
+![Presupuesto Arquitectura](/PresupuestoOk.png)
+
 ## Mejoras Propuestas para el Cliente
 
 Se identificaron herramientas adicionales para optimizar la solución:
@@ -32,15 +42,6 @@ Se identificaron herramientas adicionales para optimizar la solución:
 - **Políticas avanzadas de Auto Scaling**: Escalado más eficiente y granular.
 - **Route 53**: Gestión avanzada de DNS.
 
-## Demo
-
-Puedes ver una demostración del proyecto en AWS [aquí](https://youtu.be/vYToZIg20BM).
-
-## Presupuesto
-
-El proyecto fue diseñado para ser rentable, aprovechando los servicios escalables y de pago por uso de AWS.
-
-![Presupuesto Arquitectura](/PresupuestoOk.png)
 
 ## Preguntas
 

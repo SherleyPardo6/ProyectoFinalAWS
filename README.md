@@ -1,17 +1,5 @@
 # Proyecto Final: AWS - Red Team
 
-## Miembros del Equipo
-
-| **Ana González**                                                                                 | **Anaís Reyes**                                                                           | **Mª del Carmen Fernández**                                                                                |
-| ------------------------------------------------------------------------------------------------ | ----------------------------------------------------------------------------------------- | ---------------------------------------------------------------------------------------------------------- |
-| <img src="IntegrantesProyecto/AnaGonzalezBueno.jpg" alt="Ana Gonzalez" width="150" height="150"> | <img src="IntegrantesProyecto/AnaisReyes.jpg" alt="Anais Reyes" width="150" height="150"> | <img src="IntegrantesProyecto/MariaDelCarmenFernadez.jpg" alt="Maria Del Carmen" width="150" height="150"> |
-| [LinkedIn](https://www.linkedin.com/in/anago-bueno/)                                            | [LinkedIn](https://www.linkedin.com/in/anais-reyes-rocha/)                               | [LinkedIn](https://www.linkedin.com/in/mamen-fb/)                                                         |
-
-| **Mar Prieto**                                                                          | **Paula Sanz**                                                                          | **Sherley Johana Pardo**                                                                                   |
-| --------------------------------------------------------------------------------------- | --------------------------------------------------------------------------------------- | ---------------------------------------------------------------------------------------------------------- |
-| <img src="IntegrantesProyecto/MarPrietp.png" alt="Mar Prieto" width="150" height="150"> | <img src="IntegrantesProyecto/PaulaSanz.jpg" alt="Paula Sanz" width="150" height="150"> | <img src="IntegrantesProyecto/SherleyJohanaPardo.jpg" alt="Sherley Johana Pardo" width="150" height="150"> |
-| [LinkedIn](https://www.linkedin.com/in/mar-prieto-garcia/)                              | [LinkedIn](https://www.linkedin.com/in/paula-sanz-ilundain/)                            | [LinkedIn](https://www.linkedin.com/in/sherleyjohanapardo/)                                               |
-
 ## Objetivo del Proyecto
 
 El cliente desea desplegar una web estática en AWS que cumpla con los siguientes requisitos:
@@ -57,3 +45,15 @@ El proyecto fue diseñado para ser rentable, aprovechando los servicios escalabl
 ## Preguntas
 
 Si tienes alguna consulta, no dudes en preguntar. ¡Gracias por tu atención!
+
+## Miembros del Equipo
+
+| **Ana González**                                                                                 | **Anaís Reyes**                                                                           | **Mª del Carmen Fernández**                                                                                |
+| ------------------------------------------------------------------------------------------------ | ----------------------------------------------------------------------------------------- | ---------------------------------------------------------------------------------------------------------- |
+| <img src="IntegrantesProyecto/AnaGonzalezBueno.jpg" alt="Ana Gonzalez" width="150" height="150"> | <img src="IntegrantesProyecto/AnaisReyes.jpg" alt="Anais Reyes" width="150" height="150"> | <img src="IntegrantesProyecto/MariaDelCarmenFernadez.jpg" alt="Maria Del Carmen" width="150" height="150"> |
+| [LinkedIn](https://www.linkedin.com/in/anago-bueno/)                                            | [LinkedIn](https://www.linkedin.com/in/anais-reyes-rocha/)                               | [LinkedIn](https://www.linkedin.com/in/mamen-fb/)                                                         |
+
+| **Mar Prieto**                                                                          | **Paula Sanz**                                                                          | **Sherley Johana Pardo**                                                                                   |
+| --------------------------------------------------------------------------------------- | --------------------------------------------------------------------------------------- | ---------------------------------------------------------------------------------------------------------- |
+| <img src="IntegrantesProyecto/MarPrietp.png" alt="Mar Prieto" width="150" height="150"> | <img src="IntegrantesProyecto/PaulaSanz.jpg" alt="Paula Sanz" width="150" height="150"> | <img src="IntegrantesProyecto/SherleyJohanaPardo.jpg" alt="Sherley Johana Pardo" width="150" height="150"> |
+| [LinkedIn](https://www.linkedin.com/in/mar-prieto-garcia/)                              | [LinkedIn](https://www.linkedin.com/in/paula-sanz-ilundain/)                            | [LinkedIn](https://www.linkedin.com/in/sherleyjohanapardo/)                                               |
